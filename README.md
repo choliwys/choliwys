@@ -1,6 +1,6 @@
 # 🎵 Arturo Adrianzén
 
-Soy un estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente en el quinto ciclo. Apasionado por el desarrollo web y la inteligencia artificial, siempre estoy buscando nuevas tecnologías para aprender y proyectos en los que pueda aplicar mis conocimientos.
+Soy un estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente en el quinto ciclo. Apasionado por la ciberseguridad y el analisis de datos, siempre estoy buscando nuevas tecnologías para aprender y proyectos en los que pueda aplicar mis conocimientos.
 
 ---
 # 🤖 Language and Tools
