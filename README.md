@@ -1,6 +1,6 @@
 # 🎵 Arturo Adrianzén
 
-Soy un estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente en el septimo ciclo.
+Soy un estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente en el octavo ciclo.
 
 ---
 # 🤖 Language and Tools
